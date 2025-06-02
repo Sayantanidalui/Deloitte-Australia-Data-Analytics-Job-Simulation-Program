@@ -12,7 +12,7 @@ This repository contains my solutions for the **Deloitte Data Analytics Virtual 
   ![Tableau Dashboard](https://github.com/user-attachments/assets/5fb74f7c-ec1c-4770-89a0-9a392d69d9af)
 
 
-  ## Task 2: Forensic Technology-Pay Equality (EXCEL)
+  ## Task 2: Forensic Technology- Pay Equality (EXCEL)
   - Classified job roles based on compensation equality scores.
   - created a new column in Excel to label roles as:<br>
      i) Fair(+-10)<br>

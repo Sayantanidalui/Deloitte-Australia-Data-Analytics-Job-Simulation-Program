@@ -1,4 +1,4 @@
-# Deloitte-Data-Analytics-Job-Simulation-Program
+# Deloitte-Australia-Data-Analytics-Job-Simulation-Program
 This repository contains my solutions for the **Deloitte Data Analytics Virtual Experience Program** on Forage.
 
 ## Task 1: Data Analysis with Tableau
